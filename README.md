@@ -5,7 +5,10 @@ A command-line application that retrieve students profile information from the T
 ## Technologies Used
 
 - Node
+- Team Treehouse API
 
 ## Concepts Implemented
 
-- 
+- GET Requests
+- Parsing data
+- Capturing command line arguments
